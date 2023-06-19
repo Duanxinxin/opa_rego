@@ -1,0 +1,14 @@
+.idea
+venv
+*.pyc
+.env
+.DS_Store
+app/supervisord.pid
+.pytest_cache
+.mypy_cache
+.coverage
+.coveragerc
+.vscode
+ecpro-user.paw
+*.paw
+pytest.ini
